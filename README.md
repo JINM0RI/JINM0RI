@@ -1,54 +1,24 @@
-# Hi there, I'm SRIVATHSAN RAJA! 👋
+# 💫 About Me:
+I am a final-year engineering student focused on the intersection of Data Analytics and Software Development. I specialize in building automated solutions to solve real-world business problems and optimizing data workflows.
 
-<img src="https://avatars.githubusercontent.com/u/148421670?v=4" alt="JINM0RI's GitHub profile picture" width="200" height="200" style="border-radius:50%">
 
-I'm a passionate developer with a keen interest in data analysis and building practical applications. I enjoy learning new technologies and applying them to solve real-world problems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srivathsan-raja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivathsan.r2003@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JINM0RI&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JINM0RI&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JINM0RI&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📝 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I am currently honing my skills in data analysis and visualization, as showcased by my projects from the freeCodeCamp "Data Analysis with Python" certification. I am also exploring software development, with projects like the Billing System. I am always eager to learn and collaborate on exciting projects.
-
-* 🌱 I’m currently learning Tabula
-
----
-
-### 🚀 My Projects
-
-Here are some of the projects I've been working on:
-
-| Project                                                                                             | Description                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[Billing_System](https://github.com/JINM0RI/Billing_System)** | A system to manage billing and invoices.                                                                                                         |
-| **[Demographic Data Analyzer](https://github.com/JINM0RI/boilerplate-demographic-data-analyzer)** | A project to analyze demographic data using Pandas. (Part of freeCodeCamp's Data Analysis with Python certification)                           |
-| **[Mean-Variance-Standard Deviation Calculator](https://github.com/JINM0RI/boilerplate-mean-variance-standard-deviation-calculator)** | A calculator to compute mean, variance, and standard deviation of a 3x3 matrix. (Part of freeCodeCamp's Data Analysis with Python certification) |
-| **[Medical Data Visualizer](https://github.com/JINM0RI/boilerplate-medical-data-visualizer)** | A project to visualize and analyze medical examination data. (Part of freeCodeCamp's Data Analysis with Python certification)                  |
-| **[Sea Level Predictor](https://github.com/JINM0RI/boilerplate-sea-level-predictor)** | A project to predict sea level rise using data from the EPA. (Part of freeCodeCamp's Data Analysis with Python certification)                      |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JINM0RI&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=JINM0RI&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### 💻 My Skills
-
-Here are some of the technologies and tools I'm familiar with:
-
-* **Languages:** Python, MySQL, R
-* **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools:** Git, GitHub, VS Code, Jyupter, Docker, Kafka
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINM0RI&show_icons=true&theme=radical" alt="JINM0RI's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINM0RI&layout=compact&theme=radical" alt="JINM0RI's top languages" />
-</p>
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/srivathsan-raja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivathsan-raja" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
